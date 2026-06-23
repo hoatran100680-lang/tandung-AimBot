@@ -1,0 +1,16 @@
+{
+  "project": "AimBot",
+  "platform": "ios",
+  "github": {
+    "owner": "hoatran100680-lang",
+    "repo": "tandung-AimBot"
+  },
+  "ios": {
+    "path": "cd ~/AimBot"
+  },
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {},
+  "mobai": {}
+}
