@@ -1,0 +1,2 @@
+Makefile:4: /home/tanding/theos/makefiles/common.mk: No such file or directory
+make: *** No rule to make target '/home/tanding/theos/makefiles/common.mk'.  Stop.
